@@ -1,6 +1,6 @@
 <p align="right"><a href="README.en.md">English</a></p>
 
-<h1><img src="https://app.strsoft.org/icon.svg" width="40" align="center" alt=""> Стриж</h1>
+<h1><img src="https://app.strsoft.org/icon.png" width="40" align="center" alt=""> Стриж</h1>
 
 | | Версия | Файл |
 |---|---|---|
