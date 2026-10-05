@@ -4,9 +4,9 @@
 
 | | Версия | Файл |
 |---|---|---|
-| **Android** | 0.7.155 | [Скачать · 27 МБ](https://github.com/STRIZH-SOFT/APK/releases/download/android/strizh-arm64.apk) |
-| **Windows** 10 и 11 | 0.2.52 | [Установщик](https://github.com/STRIZH-SOFT/APK/releases/download/windows/strizh-windows-setup.exe) · [Без установки (zip)](https://github.com/STRIZH-SOFT/APK/releases/download/windows/strizh-windows.zip) |
-| **Linux** Debian, Ubuntu | 0.1.22 | [Скачать .deb](https://github.com/STRIZH-SOFT/APK/releases/download/linux/strizh-linux.deb) |
+| **Android** | 0.7.156 | [Скачать · 27 МБ](https://github.com/STRIZH-SOFT/APK/releases/download/android/strizh-arm64.apk) · [Универсальный · 73 МБ](https://github.com/STRIZH-SOFT/APK/releases/download/android/strizh.apk) |
+| **Windows** 10 и 11 | 0.2.53 | [Установщик](https://github.com/STRIZH-SOFT/APK/releases/download/windows/strizh-windows-setup.exe) · [Без установки (zip)](https://github.com/STRIZH-SOFT/APK/releases/download/windows/strizh-windows.zip) |
+| **Linux** Debian, Ubuntu | 0.1.23 | [Скачать .deb](https://github.com/STRIZH-SOFT/APK/releases/download/linux/strizh-linux.deb) |
 
 ---
 
