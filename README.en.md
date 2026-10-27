@@ -4,7 +4,7 @@
 
 | | Version | Download |
 |---|---|---|
-| **Android** | 0.7.4 | [Download · 28 MB](https://github.com/STRIZH-SOFT/APK/releases/download/android/strizh-arm64.apk) · [Universal · 77 MB](https://github.com/STRIZH-SOFT/APK/releases/download/android/strizh.apk) |
+| **Android** | 0.7.8 | [Download · 29 MB](https://github.com/STRIZH-SOFT/APK/releases/download/android/strizh-arm64.apk) · [Universal · 80 MB](https://github.com/STRIZH-SOFT/APK/releases/download/android/strizh.apk) |
 | **Windows** 10 and 11 | 0.2.76 | [Installer](https://github.com/STRIZH-SOFT/APK/releases/download/windows/strizh-windows-setup.exe) · [Portable (zip)](https://github.com/STRIZH-SOFT/APK/releases/download/windows/strizh-windows.zip) |
 | **Linux** Debian, Ubuntu | 0.1.42 | [Download .deb](https://github.com/STRIZH-SOFT/APK/releases/download/linux/strizh-linux.deb) |
 
